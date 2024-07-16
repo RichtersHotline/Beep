@@ -1,0 +1,27 @@
+
+body {
+
+    background-color:black;
+    font-family:arial;
+
+}
+.textcontent {
+
+    background-color:black;
+    color:white;
+    margin-top:5px;
+
+
+}
+
+
+
+.container {
+
+    width:50%;
+    margin:auto;
+ background-color:white;
+text-align:center;
+
+
+}
