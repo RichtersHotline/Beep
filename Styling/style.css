@@ -1,4 +1,11 @@
 
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@400..900&display=swap');
+
+@font-face {
+    font-family: Digital;
+    src:url("./Fonts/DS-DIGI.TTF");
+ }
+
 body {
 
     background-color:black;
@@ -20,8 +27,31 @@ body {
 
     width:50%;
     margin:auto;
- background-color:white;
 text-align:center;
 
 
 }
+.container h1 {
+
+    background-color:white;
+
+
+}
+.urgent {
+
+    color:red;
+    font-style:italic;
+
+}
+
+#timer {
+background-color:black;
+    color:red;
+    font-size:70px;
+font-family:Digital;
+letter-spacing:7px;
+font-weight:lighter;
+}
+
+
+ 
